@@ -1,0 +1,11 @@
+{
+  "name": "primer_entregable_atrasado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "primer_entregable_atrasado.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
